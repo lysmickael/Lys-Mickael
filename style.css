@@ -14,7 +14,7 @@ body {
  }
 h1 {
  font-size: 200%; 
- color: red; 
+ color: navy; 
  text-align: center;
  }
 h2 {
@@ -23,7 +23,7 @@ h2 {
  padding-left: 15px;
  }
 p,ul,li,td {
- color: red; 
+ color: green; 
  }
 a:link {
  color: green;
